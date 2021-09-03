@@ -1,4 +1,5 @@
-(function () { // encapsulating variables with IIFE
+//Implemented using array.prototype
+/*(function () { // encapsulating variables with IIFE
     let lastcheck = null; // no checkboxes clicked yet
   
     // get desired checkboxes
@@ -22,4 +23,4 @@
         lastcheck = idx ;// set this checkbox as last-checked for later
       });
     });
-  }());
+  }()); */
